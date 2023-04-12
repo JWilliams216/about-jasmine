@@ -2,10 +2,25 @@
     width: 100%;
     margin: auto;
     text-align: center;
-    font-family: "Arial"
+    font-family: "Arial";
+    color: mediumvioletred;
 }
 
-.text {
+.text1 {
     font-family: Arial;
-    color: navy;
+    color: maroon;
+}
+
+.text2 {
+    font-family: Arial;
+    color: cyan;
+}
+
+.div {
+    border: 1rem solid;
+    text-align: center;
+}
+
+.picture {
+    text-align: center;
 }
