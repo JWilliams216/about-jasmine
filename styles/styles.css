@@ -1,3 +1,8 @@
+body {
+    background-color: pink;
+    opacity: .8;
+}
+
 .center {
     width: 100%;
     margin: auto;
@@ -17,10 +22,23 @@
 }
 
 .div {
-    border: 1rem solid;
+    border: 5px solid black;
+    margin: 70px;
+    background-color: white;
+    opacity: .6;
     text-align: center;
 }
 
-.picture {
-    text-align: center;
+.row {
+    display: flex;
+    align-items: center;
 }
+
+.column {
+    padding: 5px;
+    align-items: center;
+}
+img:hover {
+    opacity: .4;
+}
+
