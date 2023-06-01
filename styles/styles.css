@@ -13,7 +13,7 @@ body {
 
 .text1 {
     font-family: Arial;
-    color: maroon;
+    color: rgb(128, 0,32);
 }
 
 .text2 {
@@ -41,4 +41,5 @@ body {
 img:hover {
     opacity: .4;
 }
+
 
