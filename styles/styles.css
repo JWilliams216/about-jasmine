@@ -18,7 +18,7 @@ body {
 
 .text2 {
     font-family: Arial;
-    color: cyan;
+    color: #0015ff;
 }
 
 .div {
@@ -38,8 +38,6 @@ body {
     padding: 5px;
     align-items: center;
 }
-img:hover {
-    opacity: .4;
-}
+
 
 
